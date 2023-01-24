@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://media.giphy.com/media/IRQBDU7x2LZUQ/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
