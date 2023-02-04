@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://media.giphy.com/media/IRQBDU7x2LZUQ/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3004&pause=1000&color=1DC827&multiline=true&width=408&height=60&lines=LIFE+IS+LIKE+BEING+RAPED%2C+WHETHER+YOU;LIKE+IT+OR+NOT%2C+JUST+ENJOY+IT.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19BF08&multiline=true&width=435&lines=LIFE+IS+LIKE+BEING+RAPED%2C+WHETHER;YOU+LIKE+IT+OR+NOT%2C+JUST+ENJOY+IT.)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
